@@ -312,7 +312,7 @@ decide much on its own.
     have zero non-team workers, though this is not a common setup because
     resource utilization across all workers ends up underutilized. It is
     useful though if you have a particular team with heavy workloads that
-    usually bothers other teams pipelines.
+    usually bothers other teams' pipelines.
 
 
     \section{

@@ -8,7 +8,7 @@ surrounding Concourse.
 An understanding of the basics of Concourse concepts, such as pipelines, jobs,
 etc, is recommended as parts of this section might assume a level of knowledge
 from them. This section is not necessary for using Concourse but are more for
-experienced users that want to dig deeper into how Concourse works.
+experienced users who want to dig deeper into how Concourse works.
 
 \table-of-contents
 
