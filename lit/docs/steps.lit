@@ -1830,7 +1830,7 @@ by configuring \reference{schema.on_failure} or
           inputs for a job before the job starts. Concourse has no way of
           determining inputs for a job while it's in the middle of running.
 
-          Current pipeline valdiation logic will also block you from setting the
+          Current pipeline validation logic will also block you from setting the
           pipeline at all since Concourse validates the relationship between all
           resources and jobs by looking at get and put steps.
 
